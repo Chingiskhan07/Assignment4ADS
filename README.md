@@ -26,8 +26,6 @@ assignment4-graphs/
 │   ├── Graph.java
 │   ├── Experiment.java
 │   └── Main.java
-├── docs/
-│   └── screenshots/
 ├── README.md
 └── .gitignore
 ```
