@@ -230,17 +230,6 @@ The most difficult part was implementing DFS recursion correctly and organizing 
 
 ---
 
-# Screenshots
-
-The repository includes screenshots of:
-
-- Graph structure output
-- BFS traversal output
-- DFS traversal output
-- Performance results
-
----
-
 # Conclusion
 
 This project successfully implemented graph representation, BFS traversal, DFS traversal, and performance analysis in Java.
